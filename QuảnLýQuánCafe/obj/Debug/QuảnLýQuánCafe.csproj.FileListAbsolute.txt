@@ -1,0 +1,13 @@
+D:\project\QuảnLýQuánCafe\QuảnLýQuánCafe\bin\Debug\QuảnLýQuánCafe.exe.config
+D:\project\QuảnLýQuánCafe\QuảnLýQuánCafe\bin\Debug\QuảnLýQuánCafe.exe
+D:\project\QuảnLýQuánCafe\QuảnLýQuánCafe\bin\Debug\QuảnLýQuánCafe.pdb
+D:\project\QuảnLýQuánCafe\QuảnLýQuánCafe\obj\Debug\QuảnLýQuánCafe.csprojAssemblyReference.cache
+D:\project\QuảnLýQuánCafe\QuảnLýQuánCafe\obj\Debug\QuảnLýQuánCafe.fAccountProfile.resources
+D:\project\QuảnLýQuánCafe\QuảnLýQuánCafe\obj\Debug\QuảnLýQuánCafe.fLogin.resources
+D:\project\QuảnLýQuánCafe\QuảnLýQuánCafe\obj\Debug\QuảnLýQuánCafe.fTableManager.resources
+D:\project\QuảnLýQuánCafe\QuảnLýQuánCafe\obj\Debug\QuảnLýQuánCafe.Properties.Resources.resources
+D:\project\QuảnLýQuánCafe\QuảnLýQuánCafe\obj\Debug\QuảnLýQuánCafe.csproj.GenerateResource.cache
+D:\project\QuảnLýQuánCafe\QuảnLýQuánCafe\obj\Debug\QuảnLýQuánCafe.csproj.CoreCompileInputs.cache
+D:\project\QuảnLýQuánCafe\QuảnLýQuánCafe\obj\Debug\QuảnLýQuánCafe.exe
+D:\project\QuảnLýQuánCafe\QuảnLýQuánCafe\obj\Debug\QuảnLýQuánCafe.pdb
+D:\project\QuảnLýQuánCafe\QuảnLýQuánCafe\obj\Debug\QuảnLýQuánCafe.fAdmin.resources
